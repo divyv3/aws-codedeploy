@@ -1,7 +1,7 @@
 #!/bin/bash
-set -e
+#set -e
 
-echo "Running post-deployment script..."
+echo "Running after deployment..."
 
 cd /home/ec2-user/deploy
 
